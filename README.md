@@ -1,4 +1,39 @@
-<h1 align="center">Команда разработки "HouseGoods"</h1>
+<h1 align="center">Команда разработки "404"</h1>
+<div id="previous-project" style="margin: 40px 0;">
+  <h2 align="center"> Магазин "404"</h2>
+  
+  <div id="team-404" style="display: flex; justify-content: space-around; flex-wrap: wrap;">
+    <div class="member-card" style="width: 200px; margin: 15px; padding: 15px; background: #f8f9fa; border-radius: 10px; text-align: center;">
+      <img src="https://img.icons8.com/dusk/64/github.png" width="50"/>
+      <h4>Гоша</h4>
+      <p>Репозиторий и GitHub</p>
+    </div>
+
+    <div class="member-card" style="width: 200px; margin: 15px; padding: 15px; background: #f8f9fa; border-radius: 10px; text-align: center;">
+      <img src="https://img.icons8.com/color/64/figma.png" width="50"/>
+      <h4>Саша</h4>
+      <p>Дизайн в Figma</p>
+    </div>
+
+    <div class="member-card" style="width: 200px; margin: 15px; padding: 15px; background: #f8f9fa; border-radius: 10px; text-align: center;">
+      <img src="https://img.icons8.com/fluency/64/design.png" width="50"/>
+      <h4>Мара</h4>
+      <p>Логотип и нейминг</p>
+    </div>
+
+    <div class="member-card" style="width: 200px; margin: 15px; padding: 15px; background: #f8f9fa; border-radius: 10px; text-align: center;">
+      <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-web-development-computer-programming-flaticons-flat-flat-icons.png" width="50"/>
+      <h4>Даша</h4>
+      <p>Верстка и адаптация каркаса</p>
+    </div>
+  </div>
+
+  <div style="text-align: center; margin-top: 20px;">
+    <a href="#" style="padding: 10px 20px; background: #6c757d; color: white; border-radius: 5px; text-decoration: none;">
+      Посмотреть проект →
+    </a>
+  </div>
+</div>
 <div id="header" align="center">
   <p>Проект: Интернет-магазин товаров для дома на PHP</p>
   <img src="https://media3.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" width="200"/><br>
