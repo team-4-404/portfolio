@@ -4,7 +4,7 @@
 
 <div align="center">
 -----------------------------------------
-**Участники команды**  
+**Участники нашей команды**  
 
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
 
